@@ -3,8 +3,8 @@
 First clone project and install dependencies
 
 ```sh
-$ mkdir react-ui && cd react-ui
-$ git clone https://github.com/pioupiou something here
+$ mkdir react-ui-test && cd react-ui-test
+$ git clone https://github.com/Lucas-mngt/react-ui-test.git
 $ npm install
 ```
 
